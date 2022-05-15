@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="latihanJunit" />
         <module name="71190480_Tugas_UnitTesting_JUnit5" />
       </profile>
     </annotationProcessing>
